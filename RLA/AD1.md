@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?id=1SOzRTjUt7cuBJpSqoK90fcAiKBrnpUJo" width="400">
 
-**Curso:** Engenharia da Computação <br>
+**Curso:** Engenharia civil <br>
 **Disciplina:** Raciocinio Lógico e ALgorítimo <br>
 **Código/Turma:** T998-21 <br>
 **Professor:** Ricardo Carubbi <br>
