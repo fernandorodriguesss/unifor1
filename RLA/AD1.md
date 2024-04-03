@@ -3,7 +3,7 @@
 **Disciplina:** Raciocinio Lógico e ALgorítimo <br>
 **Código/Turma:** T998-21 <br>
 **Professor:** Ricardo Carubbi <br>
-**Data:** 20/03 <br>
+**Data:** 01/04 <br>
 **Aluno(a):** fernando antonio g. rodrigues sala<br>
 **Matrícula:** 2410602 <br>
 
