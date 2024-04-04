@@ -402,8 +402,7 @@ ENQUANTO n < 0 FAÇA                 // Enquanto o número for menor que 0
     ESCREVA "Digite um fatorial válido"   // Exibe uma mensagem de erro
     LEIA n                          
 FIM_ENQUANTO                        // Fim do loop 
-PARA n_mult DE 1 PARA n [PASSO 1] FAÇA  // Loop de 1 até o número digitado pelo usuário
-    n_mult =+ 1                        // Incrementa  n_mult
+PARA n_mult DE 1 PARA n [PASSO 1] FAÇA  // Loop de 1 até o número digitado pelo usuário                 
     fato = fato * n_mult               // Calcula o fatorial multiplicando fato pelo contador n_mult
 FIM_PARA                           
 ESCREVA "O valor do fatorial de", n, "é", fato   
